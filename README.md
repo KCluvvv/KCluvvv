@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 System Administration Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/KCluvvv/ActiveDirectoryLab/tree/main)
 
 <h2>📺 Cybersecurity Projects:</h2>
 
@@ -11,7 +11,7 @@
   
 <h2>👨‍💻 Network Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Packet Tracer Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
